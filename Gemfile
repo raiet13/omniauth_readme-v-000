@@ -36,6 +36,7 @@ gem 'turbolinks'
 # NOTE : Added for code-a-long
 gem 'omniauth'
 gem 'omniauth-facebook'
+gem 'dotenv-rails'
 
 
 group :development, :test do
