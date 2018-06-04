@@ -33,7 +33,7 @@ gem 'turbolinks'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
-
+# NOTE : Added for code-a-long
 
 
 group :development, :test do
