@@ -34,6 +34,8 @@ gem 'turbolinks'
 # gem 'capistrano-rails', group: :development
 
 # NOTE : Added for code-a-long
+gem 'omniauth'
+gem 'omniauth-facebook'
 
 
 group :development, :test do
